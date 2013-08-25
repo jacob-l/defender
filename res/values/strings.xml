@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Гараж</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="switch_on">Включить</string>
+    <string name="switch_off">Выключить</string>
+    <string name="status">Статус</string>
+
+</resources>
